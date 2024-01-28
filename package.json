@@ -1,6 +1,12 @@
 {
   "name": "demo-typescript_react_electron_rete",
   "version": "0.1.0",
+  "description": "A demo setup of Rete in React targeting Electron and TypeScript. This repo's commit history contains detailed steps setting up from scratch.",
+  "keywords": [],
+  "author": {
+    "name": "Charles Zhang",
+    "email": "Charles@TotalImagine.com"
+  },
   "private": true,
   "dependencies": {
     "@craco/craco": "^7.1.0",
