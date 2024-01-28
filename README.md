@@ -13,6 +13,13 @@ npm run build
 npm run start
 ```
 
+To package, do (in the Electron packaging branch with electron-forge):
+
+```bash
+npm run build
+npm run make
+```
+
 ## Original React Scripts (Not All Are Still Available)
 
 In the project directory, you can run:
