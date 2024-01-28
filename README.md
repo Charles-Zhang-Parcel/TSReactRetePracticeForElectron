@@ -1,8 +1,19 @@
-# Getting Started with Create React App
+# Demo Setup with React (TypeScript) in Electron with Rete
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Memo
+
+Per https://www.mongodb.com/docs/realm/sdk/node/integrations/electron-cra
+
+To build and run, we must do those in sequence:
+
+```bash
+npm run build
+npm run start
+```
+
+## Original React Scripts (Not All Are Still Available)
 
 In the project directory, you can run:
 
