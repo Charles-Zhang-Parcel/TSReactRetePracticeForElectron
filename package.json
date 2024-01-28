@@ -14,6 +14,12 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "rete": "^2.0.3",
+    "rete-area-plugin": "^2.0.2",
+    "rete-connection-plugin": "^2.0.1",
+    "rete-react-plugin": "^2.0.5",
+    "rete-render-utils": "^2.0.2",
+    "styled-components": "^6.1.8",
     "typescript": "^4.9.5"
   },
   "scripts": {
