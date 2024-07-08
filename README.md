@@ -16,13 +16,24 @@ npm run start
 To package, do (in the Electron packaging branch with electron-forge):
 
 ```bash
+# npm install
 npm run build
+# npm run start
 npm run make
 ```
 
-## Original React Scripts (Not All Are Still Available)
+We are still investigating how to publish only the static ReactJS + Rete pages without NodeJS/Electron (e.g. serve directly from static web server e.g. Github Pages).
 
-In the project directory, you can run:
+* https://stackoverflow.com/questions/36698354/require-is-not-defined
+* https://stackoverflow.com/questions/8595509/how-do-you-share-constants-in-nodejs-modules
+* https://medium.com/@swarajgosavi20/how-to-deploy-react-on-github-pages-33e427f0bd36
+* https://github.com/gitname/react-gh-pages
+* https://blog.logrocket.com/deploying-react-apps-github-pages/
+* https://dev.to/luispa/lets-try-react-without-nodejs-3a7
+
+## References
+
+Original React Scripts (Not All Are Still Available): 
 
 ### `npm start`
 
@@ -57,7 +68,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
